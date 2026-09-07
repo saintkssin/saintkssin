@@ -29,4 +29,4 @@ RAG-пайплайни, self-hosted моделі (Ollama)
 
 ---
 
-[LinkedIn](#) · [GitHub](https://github.com/saintkssin)
+[GitHub](https://github.com/saintkssin)
